@@ -1,3 +1,3 @@
 # j2se_demos
 
-just demos of java when study.
+just demos of java when studying.
